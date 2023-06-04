@@ -1,0 +1,66 @@
+sites marchands
+jeremierasset@rocketmail.com
+--amazon
+--apple
+--bohemia
+--cdiscount
+--origin
+--ebay
+--fnac
+--force glass
+--force mobility
+--gamecodeur
+--itch.io
+--LDLC
+--Lego
+--materiel.net
+--paypal
+--rakuten
+--star citizen
+--rockstar
+--steam
+--ubisoft
+
+
+services
+rassetjeremie@yahoo.com
+--ameli
+--caf
+--doctolib(remy.rasset@gmail.com)
+--harmonie
+--impots
+--pole emploi
+--sfr
+--vivalto
+
+
+autres
+remy.rasset@orange.fr
+orange parents
+lesolitaire.bigjay@gmail.com
+--akai
+--asus
+--bricklink
+--deviantart
+--discord
+--flickr
+--google
+--gtanf
+--hentai_foundry
+--instagram
+--live(outlook)
+--madcatz
+--mathematiquefacile
+--meludia
+--nvidia
+--pinterest
+--piviv
+--snapchat
+--steelseries
+--tinder
+--tomtom
+--twitch
+--vcv rack
+--vimeo
+--wikifeet
+--world of trucks

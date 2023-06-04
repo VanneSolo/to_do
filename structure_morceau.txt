@@ -1,0 +1,20 @@
+couplet refrain couplet refrain pont refrain
+
+intro couplet (couplet) pre-refrain refrain intro couplet pre-refrain pont (ou couplet) refrain refrain (ou outro)
+
+intro couplet couplet pre-refrain refrain couplet pre-refrain refrain refrain (ou outro)
+
+intro refrain couplet pre-refrain refrain couplet pre-refrain refrain pont refrain refrain
+
+intro couplet pre-refrain refrain couplet pre-refrain refrain pont refrain climax-ending
+
+intro couplet pre-refrain refrain couplet pre-refrain refrain post-ref refrain post-ref
+
+intro couplet pre-refrain refrain couplet pre-refrain refrain post-ref pont refrain post-ref
+
+intro: 8 à 16 mesures
+couplet: 16 mesures
+pre refrain: 8 mesures
+refrain: 8 à 16 mesures
+pont: 4 à 8 mesures
+outro: 8 à 16 mesures

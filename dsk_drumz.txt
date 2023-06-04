@@ -1,0 +1,8 @@
+C2: BD/Kick
+D2: Snare
+E2: Clap/Rim
+F2: Hi-Hat 1
+G2: Hi-Hat 2
+A2: Ride/Cymbal
+B2: Perc 1
+C3: Perc 2

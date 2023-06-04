@@ -1,0 +1,39 @@
+ctrl z / ctrl maj z -> annuler, refaire
+space ou clic bouton milieu -> grab canvas
+ctrl+space -> zoom
+shift+space -> rotation canvas
+5 numpad -> restaurer rotation
+suppr -> efface ce qu'il y a sur le calque sélectionné
+tab -> passer le canvas en plein écran
+m -> mirroir du canvas
+s -> sélection à main levée
+b -> brush
+ctrl+D -> désélectionner
+outil de sélection+shift -> ajouter à la sélection
+outil de sélection+alt -> retirer à la sélection
+ctrl+T -> transformation
+transformation+alt -> la transformation se fait dans les deux sens opposés
+transformation+shift -> la transformation est proportionnelle en hauteur et en largeur.
+clic entre deux points du cadre de transformation -> shearing
+clic sur la petite croix au milieu du cadre de transformation+drag -> déplace le point d'origine de la sélection.
+transformation+ctrl -> donne un effet 3D à la sélection
+Après avoir validé une sélection, on peut récupérer les outils de transformation sur la sélection en recliquant sur l'icone de transformation.
+e -> switch entre les modes dessin et gomme d'une brush
+ctrl -> pipette
+k / l -> rendre la couleur plus sombre/lumineuse
+Pour le blending de couleur: superposer les deux couleurs, selectionner avec la pipette dans la zone de chevauchement, peindre sur la zone de chevauchement, recommencer jusqu'à obtenir l'effet voulu.
+ctrl+g -> grouper des calques
+ctrl+j -> copier calque
+icone la plus à droite dans la zone des calque -> bloque la transparence, on ne peut plus dessiner que sur les pixels dejà peints
+ctrl+h -> masque le contour de sélection
+ctrl+e -> fusionner les calques
+
+exercices d'entrainement/échauffement:
+-> tracer des lignes et des courbes, continues ou cassées.
+-> relier des points disposés aléatoirement sur le canvas.
+-> dessiner des formes de bases (carré, cercle, triangle) et les déformer/associer pour créer d'autres formes.
+-> dessiner des têts à partir de formes aléatoires.
+-> dessiner des sphères, des cubes, des cylindres et des cônes
+
+Se renseigner plus en profondeur sur les gradients et les color mode
+

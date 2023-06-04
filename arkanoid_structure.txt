@@ -1,0 +1,28 @@
+Makefile
+balls
+parametres: position à l'écran, dimensions, position sur la spritesheet, création du quad, rayon. table qui contient la balle du joueur mais aussi celles qui pourraient éventuellement être gagnées via des bonus. bool qui servira à vérifier s'il reste des balles en vie.
+fonctions: new_ball, add_ball, update_ball, draw_ball => crée et ajoute une nouvelle balle dans la table des balles. maj et dessine chacune des balle.
+update, draw => parcours la table des balles et update et draw chacune d'entre elles.
+follow_platform => update la pos de la balle avec celle du pad si la balle n'a pas encore été lancée.
+launch => lance la balle
+wall_rebound, platform_rebound, brick_rebound => gère les événement en cas de collision (ce qu'il se passe, il ne s'agit pas du calcul de collision en lui-même)
+
+bonuses
+bricks
+buttons
+buttons_with_url
+collisions
+game
+gamefinished
+gameover
+gamepaused
+gamestates
+levels
+lives_display
+main
+menu
+platform
+score_display
+side_panel
+vector
+walls

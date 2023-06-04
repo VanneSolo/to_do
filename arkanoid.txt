@@ -1,0 +1,22 @@
+Dossier levels.
+-Il contient un fichier par niveau, avec une table de table donc chaque élément est le type de brique. 
+-On y place un dernier fichier "sequence" qui renvoie une table qui contient des strings qui représentent les niveaux dans l'ordre dans lequel on veut les parcourir.
+
+ball.lua
+Comporte tout le nécessaire pour la balle. 
+-Quelques paramètres de base, la position, la vitesse et le rayon. 
+-L'update et le draw. 
+-Le rebound qui gère l'inversion de vitesse de la balle en cas de collision (sera géré par love.physics dans ma version). 
+-Et enfin reposition, fonction qui replace la balle à une position voulue.
+
+bricks.lua
+Contient le nombre de lignes, le nombre de colonnes, les coordonnées du point d'origine de la brique en haut à gauche, les dimensions d'une brique, l'espacement horizontal et vertical entre les briques, une table qui contiendra toutes les briques du niveau et un booléen qui sert à contrôler s'il y a encore des briques dans le niveau en cours.
+-new_brick pour créer une nouvelle brique, 
+-add_to_current_level pour insérer les briques dans la table, 
+-update_brick qui est vide, 
+-draw_brick qui affiche les briques avec différentes couleurs selon le type de brique. -construct_level qui construit les niveaux (appelle new_brick et add_to_current_level). -update qui check le nom de briques et passe le booléen à true si la table est vide. -draw qui appelle draw_brick. 
+-brick_hit_by_ball qui supprime les briques touchées par la balle.
+-clear_current_level qui vide la table de brique d'un coup
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+

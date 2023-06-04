@@ -1,0 +1,64 @@
+NE PAS GRIGNOTER
+ARRETER LE CHOCOLAT
+MOINS GLANDER SUR YOUTUBE LA SEMAINE.
+REGARDER COMPTES BANCAIRES REGULIEREMENT.
+
+Ne pas oublier le rdv pour faire des photo d'identité.
+Penser à vérifier régulièrement les disponibilités rdv dermato et mairie pour déposer demande de passeport.
+
+Surveiller que la seconde ligne mobile SFR et chubb ont bien été résiliés.
+Suivre résiliation prévoyance Harmonie Mutuelle.
+
+Finir prépa pour rdv CHGR.
+  => Parler de l'UER, compléter questionnaire RQTH.
+  => Difficulté pour choisir quoi faire quand plusieurs chose se proposent à moi.
+  => Du coup j'ai du mal à vraiment initier quelque chose, et prendre une décision               m'est très compliqué.
+  => Du fait de mon passé, comme j'ai passé une bonne partie de mon                               enfance/adolescence à tout faire de force sans réfléchir jusqu'à m'effondrer, je             me retrouve dans une situation ou j'ai peur d'être happé dans une sorte de puis          sans fond et de retomber dans le dur (problèmes de concentration).
+  => Acceptation de la réussite.
+  => Blocage quant à la présence des parents.
+  => Toujours du mal à complétement me relâcher même s'il y a du mieux.
+
+Plongée:
+  => reprendre les cours niveau 1 pour se remettre à niveau sur la théorie.
+  => potasser bouquin niveau 2.
+  => établir routine.
+-------------------------------------------------------------------------------------------------------
+
+Pour les autres tâches:
+- Vérifier sécurité compte google, récupérer compte microsoft.
+- Jeter un oeil à Twitch et retrouver un peu de temps pour jouer aux jeux vidéos. Passer du temps sur itch.io/steam/section jeux de love. => je ferai ça une fois que les travaux dans ma piaule seront terminés, que j'aurais récupéré mon gros matos et que tout sera installé.
+
+Prendre des notes sur les videos de Sakurai, et à partir de la liste de mes idées de jeu, commencer à poser les idées qui me viennent.
+
+Remplir le dossier de favoris "actu".
+
+---------------------------------------------------------------------------------------------------------
+PROGRAMMATION.
+
+Je vais continuer à recoder Asteroid à partir de la version de GameDevCodeur mais en utilisant au maximum les outils de Löve. Learn_to_Love page 133/200.
+
+En parallèle, consacrer un peu de temps au C/C++, open GL et tout ça, j'ai crée un dossier de favoris exprès.
+
+---------------------------------------------------------------------------------------------------------
+DESSIN/3D.
+
+  Je suis un gribouilliste. Il faut que je me le cogne dans le crâne une bonne fois pour toute. Sinon ça commence à aller mieux pour à peu près tout même si les visages restent un peu plat et que les proportions sont très perfectibles sur mes personnages. Maintenant, je dois regarder comment fonctionnent les sites pornos, créer des illus/anim de cul et les poster dessus.
+  Dans le même temps il va falloir que je conssacre du temps à préparer mes petites anim pour twitch (JP coffe, JCVD, etc, j'en ai déjà fait une bonne liste sur mon cahier à entasser du bordel).
+  Dernier projet dessin pour l'instant, créer des graphismes plus sympa pour Asteroids, à vue de nez comme ça: player, un ou deux aliens, les lasers pour tout ce beau monde, éventuellement des missiles et pour finir trois ou quatre modèles d'astéroïdes.
+
+  Concernant les ref, le plus rapide dans un premier temps va êtrede me faire des pure ref à partir de mes tableaux pinterest déjà bien fournis, et aussi deviant art pour le meufs à poil:
+femmes, femmes nues, voitures, motos, trains, women scuba moderne et compléter vintage scuba.
+  Ensuite je remplis les tableaux déjà créés pour les bâtiments et les végétaux. Il faudra aussi que je crée une catégorie homme; et puis faire des pure ref avec ça.
+  Dernier point à ce sujet, réellement regarder Art Station et Behance, regarder comment ça marche et trouver des gens à suivre. Je m'en servirai pour poster mes illustration safe et le Deviantart servira à poster les dessins plus hot mais pas encore porno.
+
+Mes notes sur Blender sont encore pire que ce que j'imaginais. Je vais donc devoir passer directement au tutos de Mykol et Imphenzia.
+
+---------------------------------------------------------------------------------------------------------
+MUSIQUES/SONS.
+
+J'arrive à un niveau qui me permet de sortir des choses audibles. Reste à revoir le rack de controlleurs et les pistes d'automation sur lmms et suivre quelques tutos sur VCV pour apprendre les fonctionnalités de base.
+Travailler aussi sur les débuts/ponts/fins.
+
+Jeter un oeil à spitfire labs.
+
+En parallèle je dois aussi consacrer du temps à toute la partie sound design. J'ai quatre logiciels qui vont être complémentaires pour ça: LabChirp et Bfxr pour les sons, Voxal pour les voix et Audacity pour mixer tout ça. J'ai du mal à trouver des ressources vraiment intéressantes pour apprendre, j'imagine qu'il y aura un parallèle avec VCV pour tout ce qui est VCO, VCA, filtres, etc.
